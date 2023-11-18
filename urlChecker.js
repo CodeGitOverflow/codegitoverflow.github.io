@@ -1,6 +1,2 @@
-var url = window.location.href;
-if(url.endswith(".json")){ 
-  window.location.assign("404.html");
-  alert("JSON detected!");
-  //
-}
+var u = window.location.href;
+if(u.endsWith(".json")){window.history.back();}
