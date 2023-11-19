@@ -1,0 +1,4 @@
+{
+  'title': document.getElementById("question-title").value,
+  'content': document.getElementById("question-content").value
+};
