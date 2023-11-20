@@ -17,5 +17,8 @@ It has various features to improve on StackOverFlow such as:
    This site uses cookies to give each user a recommend answer to improve your user experience.
 * Completely free:
     This webiste is and always will be free so anyone can use this site
+
+  # But how is the data publicly stored well operating at the client-side?
+  The website uses JSON to store information like comments, replies, up votes, down votes, usernames and much more to ensure that data can be publicly available while operating on the client-side.
   
 All designed to improve the cons of StackOverflow.
