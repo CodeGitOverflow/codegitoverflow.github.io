@@ -8,7 +8,7 @@
 # Improved Features on StackOverFlow
 It has various features to improve on StackOverFlow such as:
 * Instant reload when a question you are on is updated,
-* Notificaitons when your question recieves an update.
+* Notifications when your question recieves an update.
 * Multiple questions
  you can ask multiple questions even if your previous one was closed.
 * Closed questions won't go against your account:
