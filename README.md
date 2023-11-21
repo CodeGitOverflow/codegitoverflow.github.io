@@ -22,6 +22,7 @@ It has various features to improve on StackOverFlow such as:
   The website uses JSON to store information like comments, replies, up votes, down votes, usernames and much more to ensure that data can be publicly available while operating on the client-side to achieve this it fetches the question JSON file than renders it on the browser.
   Also, this website uses GitHub REST API to save questions, replies, upvotes and downvotes so everything can be public.
   Also, to ensure questions have their own page without having too many HTML files it uses Jekyll to render each question based off of parameters.
+  And the best feature is if your question doesn't get answered or perfer security it will be answered by AI.
 All designed to improve the cons of StackOverflow.
 
 Also, the prototype doesn't have the built in features.
