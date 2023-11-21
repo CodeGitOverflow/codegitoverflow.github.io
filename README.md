@@ -20,7 +20,7 @@ It has various features to improve on StackOverFlow such as:
 
   # But how is the data publicly stored well operating at the client-side?
   The website uses JSON to store information like comments, replies, up votes, down votes, usernames and much more to ensure that data can be publicly available while operating on the client-side to achieve this it fetches the question JSON file than renders it on the browser.
-  
+  Also, this website uses GitHub REST API to save questions, replies, upvotes and downvotes so everything can be public
 All designed to improve the cons of StackOverflow.
 
 Also, the prototype doesn't have the built in features.
