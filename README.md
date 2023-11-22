@@ -5,6 +5,8 @@ CodeGitOverflow is a Q&A coding platform designed to address the challenges face
 ## Security on Client Side
 We prioritize your data security. Our platform uses secure tampering and encryption libraries to ensure that your data is safe. Only necessary information like your username is displayed when asking questions.
 
+## Security features on the server-side
+Any data will be sanatized, input will be validated and HTML tags will be removed to ensure no malicious code can run when users view questions
 Also, to ensure more security any JavaScript file meant for handling data or encryption will not be viewable by using Python to route away from those files.
 ## Improved Features
 - **Instant Updates**: Get instant reloads when a question you are following is updated.
