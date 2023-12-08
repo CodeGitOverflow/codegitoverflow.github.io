@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+  <html>
+    <head> 
+      <title>CodeGitOverflow - Home Page</title>
+    </head>
+    <body>
+
+      <!-- Div for navigation bar -->
+      <div class="navbar">
+
+          <!-- Div for header -->
+          <div class="navbar-header">
+                <h1>CodeGitOverflow</h1>
+          </div>
+
+          <!-- Div for links -->
+          <div class="navbar-links">
+                <ol>
+                  <li><a href="about.html">About</a></li>
+                </ol>
+          </div>
+       </div>
+      </body>
+   </html>
